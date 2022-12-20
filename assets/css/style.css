@@ -8,6 +8,7 @@ li {
 
 section {
     font-size: 2rem;
+    border: 2px solid black;
 }
 
 .noListStyle{
