@@ -1,0 +1,47 @@
+ul {
+    padding-inline-start: 1.2em;
+}
+
+li {
+    line-height: 1.5em;
+}
+
+section {
+    font-size: 2rem;
+}
+
+.noListStyle{
+    list-style: none;
+}
+
+.fontSizeRemSmall {
+    font-size: 0.8em;
+}
+
+.fontSizeRemSmaller{
+    font-size: 0.8em;
+}
+
+.fontSizeSmallest{
+    font-size: 0.8em;
+}
+
+.dogEmoji {
+    list-style: '🐶';
+}
+
+.catEmoji {
+    list-style: '🐱';
+}
+
+.birdEmoji {
+    list-style: '🦜';
+}
+
+.snakeEmoji {
+    list-style: '🐍';
+}
+
+.lizzardEmoji {
+    list-style: '🦎';
+}
